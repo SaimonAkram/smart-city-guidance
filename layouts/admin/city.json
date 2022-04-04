@@ -1,0 +1,241 @@
+[{
+        "Rank": "1",
+        "City": "Bogra",
+        "Area(km2)": "30.20[6]",
+        "Population(2011)": "540,000[6]",
+        "District": "Bogra",
+        "Division": "Rajshahi Division"
+    },
+    {
+        "Rank": "2",
+        "City": "Kushtia",
+        "Area(km2)": "21.32[7]",
+        "Population(2011)": "238,922[7]",
+        "District": "Kushtia",
+        "Division": "Khulna Division"
+    },
+    {
+        "Rank": "3",
+        "City": "Jessore",
+        "Area(km2)": "28.56",
+        "Population(2011)": "237,478",
+        "District": "Jessore",
+        "Division": "Khulna Division"
+    },
+    {
+        "Rank": "4",
+        "City": "Cox's Bazar",
+        "Area(km2)": "24.45",
+        "Population(2011)": "223,522",
+        "District": "Cox's Bazar",
+        "Division": "Chittagong Division"
+    },
+    {
+        "Rank": "5",
+        "City": "Manikganj",
+        "Area(km2)": "42.28",
+        "Population(2011)": "200,000",
+        "District": "Manikganj",
+        "Division": "Dhaka Division"
+    },
+    {
+        "Rank": "6",
+        "City": "Brahmanbaria",
+        "Area(km2)": "22.49",
+        "Population(2011)": "193,814",
+        "District": "Brahmanbaria",
+        "Division": "Chittagong Division"
+    },
+    {
+        "Rank": "7",
+        "City": "Dinajpur",
+        "Area(km2)": "22",
+        "Population(2011)": "191,329",
+        "District": "Dinajpur",
+        "Division": "Rangpur Division"
+    },
+    {
+        "Rank": "8",
+        "City": "Nawabganj",
+        "Area(km2)": "32.09",
+        "Population(2011)": "180,731",
+        "District": "Chapai Nawabganj",
+        "Division": "Rajshahi Division"
+    },
+    {
+        "Rank": "9",
+        "City": "Tangail",
+        "Area(km2)": "33.8",
+        "Population(2011)": "167,412",
+        "District": "Tangail",
+        "Division": "Dhaka Division"
+    },
+    {
+        "Rank": "10",
+        "City": "Sirajganj",
+        "Area(km2)": "31.27",
+        "Population(2011)": "167,200",
+        "District": "Sirajganj",
+        "Division": "Rajshahi Division"
+    },
+    {
+        "Rank": "11",
+        "City": "Chandpur",
+        "Area(km2)": "22",
+        "Population(2011)": "159,021",
+        "District": "Chandpur",
+        "Division": "Chittagong Division"
+    },
+    {
+        "Rank": "12",
+        "City": "Feni",
+        "Area(km2)": "22",
+        "Population(2011)": "156,971",
+        "District": "Feni",
+        "Division": "Chittagong Division"
+    },
+    {
+        "Rank": "13",
+        "City": "Jamalpur",
+        "Area(km2)": "55.25",
+        "Population(2011)": "150,172",
+        "District": "Jamalpur",
+        "Division": "Mymensingh Division"
+    },
+    {
+        "Rank": "14",
+        "City": "Naogaon",
+        "Area(km2)": "38.36",
+        "Population(2011)": "150,025",
+        "District": "Naogaon",
+        "Division": "Rajshahi Division"
+    },
+    {
+        "Rank": "15",
+        "City": "Narsingdi",
+        "Area(km2)": "14.8",
+        "Population(2011)": "146,115",
+        "District": "Narsingdi",
+        "Division": "Dhaka Division"
+    },
+    {
+        "Rank": "16",
+        "City": "Pabna",
+        "Area(km2)": "27.27",
+        "Population(2011)": "144,442",
+        "District": "Pabna",
+        "Division": "Rajshahi Division"
+    },
+    {
+        "Rank": "17",
+        "City": "Maijdee",
+        "Area(km2)": "23.79",
+        "Population(2011)": "130,842",
+        "District": "Noakhali",
+        "Division": "Chittagong Division"
+    },
+    {
+        "Rank": "18",
+        "City": "Faridpur",
+        "Area(km2)": "19.78",
+        "Population(2011)": "122,425",
+        "District": "Faridpur",
+        "Division": "Dhaka Division"
+    },
+    {
+        "Rank": "19",
+        "City": "Jhenaidah",
+        "Area(km2)": "17.21",
+        "Population(2011)": "110,541",
+        "District": "Jhenaidah",
+        "Division": "Khulna Division"
+    },
+    {
+        "Rank": "20",
+        "City": "Satkhira",
+        "Area(km2)": "31.1",
+        "Population(2011)": "110,500",
+        "District": "Satkhira",
+        "Division": "Khulna Division"
+    },
+    {
+        "Rank": "21",
+        "City": "Chowmuhani",
+        "Area(km2)": "36",
+        "Population(2011)": "132,948",
+        "District": "Noakhali",
+        "Division": "Chittagong Division"
+    },
+    {
+        "Rank": "22",
+        "City": "Kishoreganj",
+        "Area(km2)": "11.3",
+        "Population(2011)": "103,798",
+        "District": "Kishoreganj",
+        "Division": "Dhaka Division"
+    },
+    {
+        "Rank": "23",
+        "City": "Bhairab",
+        "Area(km2)": "15.71",
+        "Population(2011)": "118,992",
+        "District": "Kishoreganj",
+        "Division": "Dhaka Division"
+    },
+    {
+        "Rank": "24",
+        "City": "Saidpur",
+        "Area(km2)": "26.5",
+        "Population(2011)": "127,104",
+        "District": "Nilphamari",
+        "Division": "Rangpur Division"
+    },
+    {
+        "Rank": "25",
+        "City": "Savar",
+        "Area(km2)": "14.08",
+        "Population(2011)": "296,851",
+        "District": "Dhaka",
+        "Division": "Dhaka Division"
+    },
+    {
+        "Rank": "26",
+        "City": "Siddhirganj",
+        "Area(km2)": "22.71",
+        "Population(2011)": "256,760",
+        "District": "Narayanganj",
+        "Division": "Dhaka Division"
+    },
+    {
+        "Rank": "27",
+        "City": "Tongi",
+        "Area(km2)": "32.07",
+        "Population(2011)": "350,000",
+        "District": "Gazipur",
+        "Division": "Dhaka Division"
+    },
+    {
+        "Rank": "28",
+        "City": "Kaliakair",
+        "Area(km2)": "27.16",
+        "Population(2011)": "213,061",
+        "District": "Gazipur",
+        "Division": "Dhaka Division"
+    },
+    {
+        "Rank": "29",
+        "City": "Chuadanga",
+        "Area(km2)": "69.02",
+        "Population(2011)": "128,865",
+        "District": "Chuadanga",
+        "Division": "Khulna Division"
+    },
+    {
+        "Rank": "30",
+        "City": "Sreepur",
+        "Area(km2)": "46.9",
+        "Population(2011)": "132,948",
+        "District": "Gazipur",
+        "Division": "Dhaka Division"
+    }
+]

@@ -1,0 +1,18 @@
+{
+    "name": "Radin",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "postcss ./css/tailwind.css -o ./css/styles.css",
+        "watch": "postcss ./css/tailwind.css -o ./css/styles.css --verbose -watch"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "autoprefixer": "^10.2.6",
+        "postcss-cli": "^8.3.1",
+        "tailwindcss": "^2.2.4"
+    }
+}

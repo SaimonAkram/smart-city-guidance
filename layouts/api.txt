@@ -1,0 +1,2 @@
+client id: 1025198180720-1l5m94m2qdgirahqam3i9p7vc4v1hcri.apps.googleusercontent.com
+secretid: SjY3-_CyVItkXx2u6QKmp44a

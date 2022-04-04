@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data</title>
+
+
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="form-group">
+            <label for="">Select Country</label>
+            <select class="form-control  testyfy" name="" id="testyfy">
+        <option>Dummy</option>
+
+      </select>
+        </div>
+    </div>
+
+    <script>
+        async function toster() {
+            jss = 'city.json'
+            const res = await fetch(jss)
+            const data = await res.json();
+            let i = 0;
+            var htmlSegment = ''
+            data.forEach(index => {
+                console.log(index.City)
+                li = `<option>${index.City}</option>`;
+                htmlSegment += li;
+
+
+            })
+            document.getElementById('testyfy').innerHTML = htmlSegment;
+
+            // document.getElementById('testyfy').appendChild html;
+            console.log(htmlSegment)
+        }
+        toster()
+    </script>
+</body>
+
+</html>
